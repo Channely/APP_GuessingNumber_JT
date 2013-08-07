@@ -1,0 +1,10 @@
+%div(align="center")
+  %h3 Guess Numbers
+  %br
+    %input(ng-model="alert_message" type="text" ) Alert Message
+  %br
+    %input(ng-model="display" type="text" ) Display Result
+  %br
+    %input(ng-model="num_input" type="text" ) Input A Number
+  %button(ng-model="start_game_button" ng-tap="start_this_game()") Begin
+  %button(ng-model="compute_result_button" ng-tap="guess_it()") Compute
