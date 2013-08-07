@@ -38,19 +38,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HomeController.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/www/js/controller/HomeController.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="26" selection-start="59" selection-end="59" vertical-scroll-proportion="0.02529511">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="process_logic.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="process_logic.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/www/js/process_logic.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="1" selection-start="700" selection-end="700" vertical-scroll-proportion="-10.2">
+            <state line="17" column="1" selection-start="700" selection-end="700" vertical-scroll-proportion="0.44894367">
               <folding />
             </state>
           </provider>
@@ -500,6 +491,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/js/controller/HomeController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="26" selection-start="59" selection-end="59" vertical-scroll-proportion="0.02529511">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/www/hamls/pages/home.haml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="62" selection-start="290" selection-end="305" vertical-scroll-proportion="-5.0">
@@ -509,14 +528,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/www/js/process_logic.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="1" selection-start="700" selection-end="700" vertical-scroll-proportion="-10.2">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/js/controller/HomeController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="26" selection-start="59" selection-end="59" vertical-scroll-proportion="0.02529511">
+        <state line="17" column="1" selection-start="700" selection-end="700" vertical-scroll-proportion="0.44894367">
           <folding />
         </state>
       </provider>
